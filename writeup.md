@@ -21,6 +21,7 @@
 [video1]: ./project_video.mp4
 [video2]: ./output.mp4
 [video3]: ./video/output_squeezeDet.mp4
+[video4]: ./src/NN/data/out
 
 ---
 
@@ -237,3 +238,6 @@ A more sophisticated interframe traction based on IOU can be used to improve rob
 
 SqueezeDet output
 ![SqueezeDet output][video3]
+
+SqueezeDet output with p4 lane finding
+![SqueezeDet p4][video4]
